@@ -26,3 +26,34 @@ Students can browse subjects, enroll in classes, and access learning materials a
 
 _Add screenshots of your project here to show the UI._
 
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, TailwindCSS, JavaScript, React (if used)  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Authentication:** JWT (JSON Web Tokens)  
+**File Uploads:** Cloudinary (images, videos, assignments)  
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/classio.git
+cd classio
+
+npm install
+
+
+
+cd client
+npm install
+npm run dev
+
+
